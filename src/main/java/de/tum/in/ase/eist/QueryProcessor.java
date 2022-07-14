@@ -3,7 +3,7 @@ package de.tum.in.ase.eist;
 import org.springframework.stereotype.Service;
 
 @Service
-public class QueryProcessor {
+public class QueryProcessor { //test
 
     public String process(String query) {
 		query = query.toLowerCase();
