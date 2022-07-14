@@ -14,7 +14,7 @@ public class QueryProcessor { //test
         } else if (query.contains("name")) {
            return "Noah";
         } else { // TODO extend the programm here
-            return "";
+            return "644";
         }
     }
 }
